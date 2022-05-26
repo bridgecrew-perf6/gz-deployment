@@ -1,0 +1,16 @@
+{
+  "extends": ["next/babel","next/core-web-vitals"]
+}
+// {
+//   "parser": "babel-eslint"
+//  }
+
+//  {
+//   "extends": [
+//   "next",
+//   "next/core-web-vitals"
+//   ]
+
+// }
+
+ 
